@@ -1,0 +1,21 @@
+[user]
+	name = Alex Simion
+	email = alexandru.simion@sky.uk
+[alias]
+	aa = add --all
+	cm = commit -m
+	st = status
+	br = branch
+	f = fetch
+	ls = ls-files
+	m = merge
+	ma = merge --abort
+	mc = merge --continue
+	ms = merge --skip
+	ch = checkout
+	chb = checkout -b
+	pom = push origin master
+	p = pull
+	cl = clone
+[core]
+	editor = /usr/bin/vim
